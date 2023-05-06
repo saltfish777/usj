@@ -1,0 +1,11 @@
+Model Information:
+* title:	Balloon
+* source:	https://sketchfab.com/3d-models/balloon-f3f669cf39b5401d92a573dba91f591d
+* author:	Sasha Belousov (https://sketchfab.com/avlbel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Balloon" (https://sketchfab.com/3d-models/balloon-f3f669cf39b5401d92a573dba91f591d) by Sasha Belousov (https://sketchfab.com/avlbel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
