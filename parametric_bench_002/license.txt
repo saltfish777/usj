@@ -1,0 +1,11 @@
+Model Information:
+* title:	Parametric Bench 002
+* source:	https://sketchfab.com/3d-models/parametric-bench-002-9e16160f1e944b10804e11477d765ccb
+* author:	decah (https://sketchfab.com/decah)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Parametric Bench 002" (https://sketchfab.com/3d-models/parametric-bench-002-9e16160f1e944b10804e11477d765ccb) by decah (https://sketchfab.com/decah) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
