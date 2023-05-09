@@ -1,0 +1,11 @@
+Model Information:
+* title:	GART230 - Microphone
+* source:	https://sketchfab.com/3d-models/gart230-microphone-5850c7d450e64f8086e898bd8388227e
+* author:	TabbieCat (https://sketchfab.com/TabbieCat)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "GART230 - Microphone" (https://sketchfab.com/3d-models/gart230-microphone-5850c7d450e64f8086e898bd8388227e) by TabbieCat (https://sketchfab.com/TabbieCat) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
